@@ -1,4 +1,4 @@
-# ![](https://media.giphy.com/media/KTG2uX8CHJdIs/giphy.gif =60x60){width="50" height = "50"} Hi, i'm crist. 
+# ![](https://media.giphy.com/media/KTG2uX8CHJdIs/giphy.gif){width="50" height = "50"} Hi, i'm crist. 
 
 ### I am a 15 years old and  i'm highschool student, my favorite hobby is reading mangas and watch anime, but im almost always learning Java :)  
 # :construction: Technologies
