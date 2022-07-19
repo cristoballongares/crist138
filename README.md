@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/KTG2uX8CHJdIs/giphy.gif" width="100" height="100"> Hiii, i'm crist:)
+# <img src="https://media.giphy.com/media/KTG2uX8CHJdIs/giphy.gif" width="100" height="100"> 
 
-### I am a 15 years old and  i'm highschool student, my favorite hobby is reading mangas and watch anime, but im almost always learning Java :)  
+### My favorite hobby is reading mangas and watch anime, but im almost always learning Java :)  
 # :construction: Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
