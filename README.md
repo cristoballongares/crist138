@@ -5,7 +5,8 @@
 ![CS3S](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 <br>
-I'm am not expert in all this but i know the basics concepts and learn to improve B))
+saludos
 <br>
+hola
 <br>
-![](https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif)
+si
